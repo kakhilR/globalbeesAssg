@@ -1,0 +1,22 @@
+1. What is the Time Complexity of reading an element from array
+ANS.  (O)N
+2. What is  the time Complexity for inserting or deleting a element in the middle of array
+Ans: (O)N
+3. If we have a random linked list. which one is the best algorithm to sort the linked list
+    - What is the Time complexity of that algorithm
+Ans: merge sort is preferred for sorting linked list as the random access makes quick sort or other algorithm are worst
+4. What if there is no data structure available to you like arrays and if you have to create a queue then in this situation how many stacks are needed?
+Ans: if we have only stacks to create queue we need two stacks we need to push into 1st stack and pop them from the 1st stack and push them into 2nd stack and pop them one by one (FIFO)
+5. What happens when we add a duplicate key in hashmap?
+Ans: if we try to add duplicate key it will replace the old key with new added key
+6. Can we delete the middle element from the odd length stack?
+    1. If yes? How do we implement that
+Ans: yes we can delete the middle element from the odd length we can pop of the elements and push them except n/2 elements into stack  
+8. Can we create a circular linked list with a doubly linked list? If yes, how can we create it?
+Ans: for circular linked lists there is no end
+9.Which data structure is used in the recursive function to store the return address of the recursive function
+Ans: stack is used for implementing recursive function
+10. Why does the overflow happen in hashing?
+Ans: when the alloted size of hash bucket is full for new kay pair over flow occurs
+11. What is the time complexity of nested for loop?
+ANS (O)N*N=>n^2

@@ -1,0 +1,22 @@
+question2:
+Ans: lets say we conduct 16 matchs it will eliminate 16 people from 32
+    next we conduct 8 matches and it will eliminate 8 more people from 16 left 8
+    next we conduct 4 matchs and it will eliminate 4 more people from 8 left with 4
+    next 2 matchs leaving with two finalists and i match for finalists which decide the winner
+
+    then we need 16+8+4+2+1 = 31 matches
+
+
+question3:
+Ans: the minimum number of measurements required is 2
+    we can divide the ball into 3,3,2
+    case1 :we weight the two group of 3 balls if the weight are equal then there defective ball is in the group of 2 balls
+    case2: if any one of the group of 3 balls group weighs more than other 
+        then we pick that group and divide them into 2 and 1 group of balls and we weight the 2 ball group if the weight is same then other 1 ball group is the defective one
+
+
+Question 4:
+Ans:14
+
+Question 5:
+Ans:10
